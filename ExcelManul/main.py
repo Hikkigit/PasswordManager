@@ -27,7 +27,6 @@ collectype=worktable.col_types(6,start_rowx=0,end_rowx=None)
 print(collectype)
 
 
-
 for i in range(worktable.nrows):
 
     for j in range(worktable.ncols):
